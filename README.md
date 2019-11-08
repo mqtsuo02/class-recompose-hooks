@@ -3,7 +3,7 @@
 **Description**
 
 - Comparison of how to write ContainerComponent with Class, Recompose and Hooks
-- Each code is in the `/src/Containers/`
+- Each code is in `/src/Containers/`
 
 **Preview**
 
@@ -14,7 +14,6 @@
 
 1. execute `$ npm run dev`
 2. access to `http://localhost:8080/` with Web browser
-
 
 **How to build**
 
